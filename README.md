@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Code your future banner" width="100%" />
+</p>
+
 # Hi 👋, I'm Asma ACHIRI
 
 ### Software Developer 
