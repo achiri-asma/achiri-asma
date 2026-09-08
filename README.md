@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/background.jpg" width="100%" />
+  <img src="./assets/who-am-I?.jpg" alt="Who am I?" width="100%" />
 </p>
 # Hi 👋, I'm Asma ACHIRI
 
