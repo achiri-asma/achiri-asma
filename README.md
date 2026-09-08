@@ -2,11 +2,13 @@
   <img src="./assets/banner.jpg" alt="Code your future banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./assets/background.jpg" width="100%" />
+</p>
 # Hi 👋, I'm Asma ACHIRI
 
 ### Software Developer 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achiri-asma" alt="achiri-asma" /></a> </p>
 
 - 🔭 I'm currently working on **I'm currently working on **Achrili**, a modern mobile application built with **React Native** and **Node.js**, focused on providing a smooth and user-friendly experience.**
 
