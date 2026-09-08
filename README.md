@@ -2,6 +2,11 @@
 <img alt="Code your future" src="https://shieldcn.dev/header/surface.svg?title=%3C+Code+your+future+%3E&subtitle=%40asma-achiri&mode=dark&image=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1480506132288-68f7705954bd%3Fw%3D1600%26q%3D70%26fit%3Dcrop%26fm%3Djpg&overlay=0.4&brand=%40asma-achiri" width="100%">
 <br />
 <p align="center">
+  <img
+    src="https://shieldcn.dev/badge/Hi%2C_I_am_a-172554.svg?mode=dark"
+    height="60"
+    alt="Hi, I am a"
+  />
   <a href="https://github.com/achiri-asma">
     <img
       src="https://shieldcn.dev/badge/Software_Engineer-172554.svg?mode=dark"
@@ -20,11 +25,47 @@
     <img
       src="https://shieldcn.dev/badge/Freelance_Developer-172554.svg?mode=dark"
       height="45"
-      alt="Freelance Developer"
+      alt="Freelancer"
     />
   </a>
 </p>
 
+<br />
+
+<p align="center">
+  I’m an Entry-Level Software Engineer and Web & Mobile Developer with over 3 years of hands-on experience building modern, user-focused digital applications. I’ve worked on web and mobile projects, transforming ideas and requirements into functional, responsive, and intuitive user experiences.
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://shieldcn.dev/badge/Artificial_Intelligence-172554.svg?mode=dark"
+    height="45"
+    alt="Artificial Intelligence"
+  />
+  <img
+    src="https://shieldcn.dev/badge/Machine_Learning-F472B6.svg?mode=dark"
+    height="45"
+    alt="Machine Learning"
+  />
+  <img
+    src="https://shieldcn.dev/badge/Web_%26_Mobile-172554.svg?mode=dark"
+    height="45"
+    alt="Web & Mobile"
+  />
+  <img
+    src="https://shieldcn.dev/badge/UI%2FUX-F472B6.svg?mode=dark"
+    height="45"
+    alt="UI/UX"
+  />
+  <img
+    src="https://shieldcn.dev/badge/Open_Source-172554.svg?mode=dark"
+    height="45"
+    alt="Open Source"
+  />
+</p
+<br />
 <br />
 <div align="center">
   <img
@@ -38,3 +79,5 @@
     width="46%"
   />
 </div>
+<br />
+
