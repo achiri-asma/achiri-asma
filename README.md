@@ -24,5 +24,17 @@
     />
   </a>
 </p>
+    <img
+      src="https://shieldcn.dev/badge/Most_used_languages-F472B6.svg?mode=dark"
+      height="45"
+      alt="Web & Mobile Developer"
+    />
 
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/langs?username=achiri-asma&theme=midnight_sakura&hide_border=true&max_langs=8&hide_title=true"
+    alt="Most used languages"
+    width="100%"
+  />
+</p>
 <br />
