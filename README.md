@@ -50,7 +50,7 @@
     alt="Machine Learning"
   />
   <img
-    src="https://shieldcn.dev/badge/Web_%26_Mobile-172554.svg?mode=dark"
+    src="https://shieldcn.dev/badge/Web_%26_Mobile_Developement-172554.svg?mode=dark"
     height="45"
     alt="Web & Mobile"
   />
